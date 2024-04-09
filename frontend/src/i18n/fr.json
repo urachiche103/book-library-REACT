@@ -1,0 +1,22 @@
+{
+    "home": "Debút",
+    "hola": "Bonjour",
+    "bienvenido": "Bienvenue/bienvenu",
+    "acceso": "Se connecter",
+    "registro": "S'inscrire",
+    "email": "E-mail",
+    "contraseña": "Mot de passe",
+    "nombre": "Nom",
+    "libros": "Livres",
+    "ingrese su nombre": "Entrez votre nom",
+    "nombre@ejemplo.com": "nom@exemple.com",
+    "registrarse": "Se connecter",
+    "inicio de sesión": "Se connecter",
+    "nunca compartiremos tu correo electrónico con nadie más": "Nous ne partagerons jamais votre e-mail avec quelqu'un d'autre",
+    "recuerdáme": "Souviens-toi de moi",
+    "iniciar sesión": "Se connecter",
+    "la contraseña es obligatoria": "Mot de passe requis",
+    "la contraseña debe tener mas de 8 caracteres": "Le mot de passe doit comporter plus de 8 caractères",
+    "la contraseña debe incluir caracteres especiales [@]": "Le mot de passe doit inclure des caractères spéciaux [@]",
+    "logout": "se déconnecter"
+}

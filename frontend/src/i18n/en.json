@@ -1,0 +1,22 @@
+{
+    "home": "Home",
+    "hola": "Hello",
+    "bienvenido": "Welcome",
+    "acceso": "Login",
+    "registro": "Sign Up",
+    "email": "Email",
+    "contraseña": "Password",
+    "nombre": "Name",
+    "libros": "Books",
+    "ingrese su nombre": "Enter your name",
+    "nombre@ejemplo.com": "name@example.com",
+    "registrarse": "Sign In",
+    "inicio de sesión": "Login",
+    "nunca compartiremos tu correo electrónico con nadie más": "We'll never share your email with anyone else",
+    "recuerdáme": "Remember me",
+    "iniciar sesión": "Login",
+    "la contraseña es obligatoria": "Password is required",
+    "la contraseña debe tener mas de 8 caracteres": "Password must be more than 8 characters",
+    "la contraseña debe incluir caracteres especiales [@]": "Password must include special characters [@]",
+    "logout": "logout"
+}

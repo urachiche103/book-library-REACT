@@ -1,0 +1,22 @@
+{
+    "home": "Start",
+    "hola": "Hallo",
+    "bienvenido": "Willkommen",
+    "acceso": "Anmeldung",
+    "registro": "Melden sie sich an",
+    "email": "Email",
+    "contraseña": "Passwort",
+    "nombre": "Name",
+    "libros": "Bücher",
+    "ingrese su nombre": "Gib deinen Namen ein",
+    "nombre@ejemplo.com": "name@beispiel.com",
+    "registrarse": "Anmelden",
+    "inicio de sesión": "Anmeldung",
+    "nunca compartiremos tu correo electrónico con nadie más": "Wir geben ihre email-adresse niemals an dritte weiter",
+    "recuerdáme": "Erinnere dich an mich",
+    "iniciar sesión": "Anmeldung",
+    "la contraseña es obligatoria": "Passwort wird benötigt",
+    "la contraseña debe tener mas de 8 caracteres": "Sas passwort muss mehr als 8 zeichen lang sein",
+    "la contraseña debe incluir caracteres especiales [@]": "Das Passwort muss Sonderzeichen enthalten [@]",
+    "logout": "ausloggen"
+}

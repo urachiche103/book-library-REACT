@@ -1,0 +1,22 @@
+{
+    "home": "Inicio",
+    "hola": "Hola",
+    "bienvenido": "Bienvenido",
+    "acceso": "Inicio de sesión",
+    "registro": "Registro",
+    "email": "Correo electrónico",
+    "contraseña": "Contraseña",
+    "nombre": "Nombre",
+    "libros": "Libros",
+    "ingrese su nombre": "Ingrese su nombre",
+    "nombre@ejemplo.com": "nombre@ejemplo.com",
+    "registrarse": "Registrarse",
+    "inicio de sesión": "Inicio de sesión",
+    "nunca compartiremos tu correo electrónico con nadie más": "Nunca compartiremos tu correo electrónico con nadie más",
+    "recuerdáme": "Recuerdáme",
+    "iniciar sesión": "Iniciar sesión",
+    "la contraseña es obligatoria": "la contraseña es obligatoria",
+    "la contraseña debe tener mas de 8 caracteres": "La contraseña debe tener más de 8 caracteres",
+    "la contraseña debe incluir caracteres especiales [@]": "La contraseña debe incluir caracteres especiales [@]",
+    "logout": "cerrar sesión"
+}
