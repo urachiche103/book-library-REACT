@@ -18,7 +18,8 @@ async function insert(req, res) {
             language: req.body.language,
             pages: req.body.pages,
             title: req.body.title,
-            year: req.body.year
+            year: req.body.year,
+            img: req.body.imageLink
         })
 
         await newBook.save()

@@ -1,0 +1,29 @@
+$my-primary-color: #007bff;
+@mixin my-card {
+    border: 1px solid $my-primary-color;
+    &:hover {
+    box-shadow: 0 0 10px rgba($my-primary-color, 0.2);
+    }
+}
+
+.carousel-comics {
+    .card {
+        @include my-card();
+        margin-bottom: 2rem;
+        .card-img-top {
+            object-fit: cover;
+            height: 200px;
+        }
+        .card-body {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            .card-title {
+                font-weight: bold;
+            }
+            .card-text {
+                color: #6c757d;
+            }
+        }
+    }
+} 

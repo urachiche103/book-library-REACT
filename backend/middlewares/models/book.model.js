@@ -7,6 +7,7 @@ const bookSchema = new mongoose.Schema({
     pages: {type: Number, required: true},
     title: {type: String, required: false},
     year: {type: Number, required: true},
+    img: {type: String, required: false},
 })
 
 module.exports = mongoose.model("books", bookSchema)
